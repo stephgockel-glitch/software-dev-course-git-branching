@@ -246,3 +246,4 @@ Your instructor will verify your work by checking your forked repository on GitH
 
 You have completed the Git branching exercise! You have learned how to create branches, make commits
 in different branches, and merge branches back into the main branch.
+First commit on main branch.
